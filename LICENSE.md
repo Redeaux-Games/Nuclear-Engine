@@ -1,3 +1,23 @@
+                 RED(x) Game Engine
+
+The RED(x) Game Engine is built from the Nuclear Project.
+
+We rebuilt it with the support of Task Flow to enable 
+a well structured scalable multi threaded game engine.
+
+But we didn't only add Task Flow, we also added Ray 
+Tracing by updating the Diligent Graphics API,
+Core, engine, fx and tools.
+
+We are working on many more improvements and adding new features.
+
+
+
+RED(x) Game Engine (c) 2021
+Redeaux Interactive.
+
+-------------------Nuclear Engine--------------------
+
 Copyright (c) 2017 - 2019 Nuclear Project
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -23,7 +43,35 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+---------------------TaskFlow---------------------
+
+Taskflow LICENSE
+
+Copyright (c) 2018-2020 T.-W. Huang, C.-X. Lin, G. Guo, and M. Wong
+
+University of Utah, Salt Lake City, UT, USA
+University of Illinois at Urbana-Champaign, IL, USA
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
 ---------------------EntityX----------------------
+
 Copyright (C) 2012 Alec Thomas
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
@@ -46,7 +94,8 @@ SOFTWARE.
 
 
 ---------------------DiligentCore----------------------
-                                 Apache License
+                                
+   Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
 
@@ -224,6 +273,7 @@ SOFTWARE.
    END OF TERMS AND CONDITIONS
 
 ---------------------Assimp----------------------
+
 Open Asset Import Library (assimp)
 
 Copyright (c) 2006-2016, assimp team
@@ -354,8 +404,9 @@ OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ---------------------FMOD----------------------
-                                FMOD END USER LICENCE AGREEMENT
-                                ===============================
+                                
+FMOD END USER LICENCE AGREEMENT                          
+===============================
 
 This FMOD End User Licence Agreement (EULA) is a legal agreement between you and 
 Firelight Technologies Pty Ltd (ACN 099 182 448) (us or we) and governs your use 
@@ -475,3 +526,5 @@ of FMOD Studio and FMOD Engine software (FMOD).
     will need AudioMotors V2 Pro. A trial version be found at
     http://store.audiogaming.net/content/audiomotors-v2-pro-trial. For access to
     the full version, contact sales@fmod.com.
+
+
