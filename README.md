@@ -1,4 +1,4 @@
-![Nuclear Engine Logo](logo.png "Nuclear Engine Logo") 
+![REDx Engine Logo](coollogo_com-117703856.png "REDx Engine Logo") 
 * [Engine features](https://github.com/Redeaux-Games/REDx-Game-Engine/blob/master/FEATURES.md) - A list of all working features.
 
 + Milestone 0.01 Alpha
