@@ -7,10 +7,10 @@
 # To-dos 
 
   + W.I.P:
-    - Bloom effect
-    - ShadowMaps (Diligent)
-    - Adding support for Taskflow
-    - Ray Tracing Support (Diligent)
+    - Bloom effect 🌋
+    - ShadowMaps (Diligent) 💪
+    - Adding support for Taskflow 🤯
+    - Ray Tracing Support (Diligent) 💡
 	
   + Planned:
 	- Mesh Animations
