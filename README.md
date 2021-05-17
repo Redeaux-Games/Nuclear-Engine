@@ -15,6 +15,8 @@
   + Planned:
 	- Mesh Animations
 	- Basic Editor support
+        - Network support
+        - P2P Asset Market using a ERC-721 token
 
   + Planned for next version:
     - Android Support
