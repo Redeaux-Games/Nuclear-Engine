@@ -11,6 +11,7 @@
     - ShadowMaps (Diligent) 💪
     - Adding support for Taskflow 🤯
     - Ray Tracing Support (Diligent) 💡
+    - Multi-threading support 💪
 	
   + Planned:
 	- Mesh Animations
