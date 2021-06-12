@@ -43,7 +43,7 @@
   - Material are auto-created and auto-configured for each pipeline without user intervention.
   
 + __Physics__
-  - Using PhysX4.
+  - Using PhysX4, next version will use PhysX5.
   - Supports Collider & RigidBody.
 
  
