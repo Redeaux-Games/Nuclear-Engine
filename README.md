@@ -12,6 +12,7 @@
     - Adding support for Taskflow 🤯
     - Ray Tracing Support (Diligent) 💡
     - Multi-threading support 💪
+    - Multi-player support 🎮
 	
   + Planned:
 	- Mesh Animations
