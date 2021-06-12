@@ -1,0 +1,29 @@
+RED AI - RedAI is an AI system the helps create the 
+next level of game play by creating sophisticated 
+NPC AI using RedAI, speech to text, text to speech, 
+machine learning, custom reponses, facial expressions 
+and speech synthesis. 
+
+The developer using the system will have complete 
+control over the actions of the NPC and it's responses.
+
+A player can have a full conversation with an NPC 
+and the NPC will respond with voice, facial 
+expressions, hand movements and more.
+
+These settings can also be changed depending of the NPC.
+
+So for example, 
+
+A woman will have a female speech synthesis and men 
+will male speech synthesis. 
+
+Kids will have appropriate voice, monsters, aliens, etc.
+
+The developer will also have full control or allow it 
+to be automated.
+
+Although this is just a simple example of how this system can be used.
+
+This will create a mini service or daemon running in the 
+background. Required software to make this possible.
