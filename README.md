@@ -3,6 +3,8 @@
 
 + Milestone 0.01 Alpha
 	- Complete DemoGame
+        - Directx 12
+        - Vulkan
 
 # To-dos 
 
@@ -13,6 +15,7 @@
     - Ray Tracing Support (Diligent) 💡
     - Multi-threading support 💪
     - Multi-player support 🎮
+    - Windows release beta (1st version x64, portable)
 	
   + Planned:
 	- Mesh Animations
