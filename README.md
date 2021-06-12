@@ -8,6 +8,7 @@
         - Vulkan
         - OpenGL
         - Async Compute
+        - Python 3
         - REDAI - Advanced AI algorithm including speech synthesis
 
 # To-dos 
