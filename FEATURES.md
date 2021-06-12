@@ -44,6 +44,6 @@
   
 + __Physics__
   - Using PhysX4, next version will use PhysX5.
-  - Supports Collider & RigidBody.
+  - Supports Collider, Ridgid Body Collisions, Ridgid Body Dynamics, Advanced Collision, Joints, Articulations, Vehicles and more  
 
  
