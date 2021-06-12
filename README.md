@@ -4,8 +4,11 @@
 
 + Milestone 0.01 Alpha
 	- Complete DemoGame
-        - Directx 12
+        - DirectX 12
         - Vulkan
+        - OpenGL
+        - Async Compute
+        - REDAI - Advanced AI algorithm including speech synthesis
 
 # To-dos 
 
@@ -16,7 +19,8 @@
     - Ray Tracing Support (Diligent) 💡
     - Multi-threading support 💪
     - Multi-player support 🎮
-    - Windows release beta (1st version x64, portable)
+    - Windows release beta (1st version x64, portable) 🪟
+    - NPC2PC (NPC to Player Communication - Utilizing STT / TTS to REDAI for NPC response)
 	
   + Planned:
 	- Mesh Animations
