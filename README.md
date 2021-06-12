@@ -73,7 +73,7 @@ System Requirements:
   - 8gb of ram or higher
   - At least 3gb of disk space or more
   - Nvidia gtx 1060 or higher / AMD Radeon 560 or higher
-  - Raytracing will require an Nvdia RTX gpu
+  - Raytracing will require a Nvidia RTX gpu
 
 We plan on getting the core features installed with 
 an installer only around 600 to 700 megabytes.
