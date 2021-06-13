@@ -9,7 +9,8 @@
         - OpenGL
         - Async Compute
         - Python 3
-        - REDAI - Advanced AI algorithm including speech synthesis
+        - REDAI - Advanced AI algorithm including speech synthesis.
+        - Built in cross platform anti-cheat module
 
 # To-dos 
 
