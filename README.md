@@ -22,6 +22,7 @@
     - Multi-player support 🎮
     - Windows release beta (1st version x64, portable) 🪟
     - NPC2PC (NPC to Player Communication - Utilizing STT / TTS to REDAI for NPC response)
+    - Support of importing .usd files
 	
   + Planned:
 	- Mesh Animations
