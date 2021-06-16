@@ -1,6 +1,6 @@
 #include "Engine/Components/AudioSourceComponent.h"
 
-namespace NuclearEngine
+namespace REDxEngine
 {
 	namespace Components
 	{
