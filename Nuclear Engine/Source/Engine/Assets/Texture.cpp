@@ -1,7 +1,7 @@
 #include <Engine/Assets/Texture.h>
 #include <Base\Utilities\Hash.h>
 
-namespace NuclearEngine
+namespace REDxEngine
 {
 	namespace Assets 
 	{
