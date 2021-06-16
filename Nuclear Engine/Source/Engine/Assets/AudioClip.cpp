@@ -4,7 +4,7 @@
 #include "..\Audio\FMODError.h"
 #include <FMOD/inc/fmod.hpp>
 
-namespace NuclearEngine
+namespace REDxEngine
 {
 	namespace Assets
 	{
