@@ -1,5 +1,5 @@
 #include <Engine\Assets\DefaultMeshes.h>
-namespace NuclearEngine
+namespace REDxEngine
 {
 	namespace Assets
 	{
