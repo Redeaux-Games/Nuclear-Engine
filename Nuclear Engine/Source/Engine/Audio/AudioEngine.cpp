@@ -4,7 +4,7 @@
 #include "FMODError.h"
 #pragma comment (lib, "fmodL_vc.lib")
 
-namespace NuclearEngine
+namespace REDxEngine
 {
 	namespace Audio
 	{
