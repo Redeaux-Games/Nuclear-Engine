@@ -2,7 +2,7 @@
 #include <Base\NE_Common.h>
 #include <fstream>
 
-namespace NuclearEngine
+namespace REDxEngine
 {
 	namespace Core
 	{
