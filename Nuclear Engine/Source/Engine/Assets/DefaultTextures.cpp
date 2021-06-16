@@ -1,6 +1,6 @@
 #include <Engine\Assets\DefaultTextures.h>
 
-namespace NuclearEngine
+namespace REDxEngine
 {
 	namespace Assets
 	{
