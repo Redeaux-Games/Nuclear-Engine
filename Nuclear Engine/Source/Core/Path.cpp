@@ -1,6 +1,6 @@
 #include "Core\Path.h"
 
-namespace NuclearEngine
+namespace REDxEngine
 {
 	namespace Core
 	{
