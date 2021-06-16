@@ -8,7 +8,7 @@
 using std::string;
 
 
-namespace NuclearEngine {
+namespace REDxEngine {
 	namespace Core {
 		namespace Parsers {
 			//INIFile INIReader("RulesBE.ini");
