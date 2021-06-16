@@ -3,7 +3,7 @@
 
 #include <GLFW/include/GLFW/glfw3.h>
 
-namespace NuclearEngine
+namespace REDxEngine
 {
 	namespace Core
 	{
