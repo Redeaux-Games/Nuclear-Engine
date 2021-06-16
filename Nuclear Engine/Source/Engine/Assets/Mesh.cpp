@@ -1,7 +1,7 @@
 #include <Engine/Assets/Mesh.h>
 #include <Engine\Graphics\Context.h>
 
-namespace NuclearEngine {
+namespace REDxEngine {
 
 	namespace Assets {
 #define MathPI 3.14159265358979323846f
