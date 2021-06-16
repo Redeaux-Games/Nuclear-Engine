@@ -1,6 +1,6 @@
 #include <Base\NE_Common.h>
 #include <Windows.h>
-namespace NuclearEngine {
+namespace REDxEngine {
 	//
 	//NEAPI std::wstring String2WSTR(const std::string& s)
 	//{
