@@ -7,7 +7,7 @@
 #include <Engine\Managers\ShaderManager.h>
 #include <Core\FileSystem.h>
 
-namespace NuclearEngine
+namespace REDxEngine
 {
 	using namespace Math;
 
