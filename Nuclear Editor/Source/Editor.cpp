@@ -1,6 +1,6 @@
 #include "CNuclearEditor.h"
 
-namespace NuclearEditor
+namespace REDxEditor
 {
 	void Start()
 	{
