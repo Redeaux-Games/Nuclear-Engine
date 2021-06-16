@@ -43,7 +43,10 @@
   - Material are auto-created and auto-configured for each pipeline without user intervention.
   
 + __Physics__
-  - Using PhysX4, next version will use PhysX5.
-  - Supports Collider, Ridgid Body Collisions, Ridgid Body Dynamics, Advanced Collision, Joints, Articulations, Vehicles and more  
+  - Using PhysX4.1, next version will use PhysX5.
+  - Supports Collider, Ridgid Body Collisions, Ridgid Body Dynamics, Advanced Collision, Joints, Articulations, Vehicles and more.  
 
- 
++ __Modules__
+  - REDAI, next-gen AI algorithm for enemies, NPCs, weapons, vehicles, weather and environments. We build datasets based on game play and build up the AIs interactivity using machine learning.
+  - NPC2PC, non playable character 2 player communication. Using speech to text, then text to speech, plugin into an AI speech sytensis module.
+  - P2P Multi-player with 3d positional audio.
