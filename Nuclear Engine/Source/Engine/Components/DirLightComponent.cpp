@@ -1,6 +1,6 @@
 #include "Engine\Components\DirLightComponent.h"
 
-namespace NuclearEngine
+namespace REDxEngine
 {
 	namespace Components
 	{
