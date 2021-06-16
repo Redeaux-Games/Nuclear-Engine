@@ -4,7 +4,7 @@
 #include <Engine\Graphics\Context.h>
 #include <Engine\Graphics\RenderingPipelines\RenderingPipeline.h>
 
-namespace NuclearEngine
+namespace REDxEngine
 {
 	namespace Assets
 	{
