@@ -2,7 +2,7 @@
 #include <PhysX/include/PxPhysicsAPI.h>
 #include "..\PhysX\PhysXTypes.h"
 
-namespace NuclearEngine
+namespace REDxEngine
 {
 	namespace Components
 	{
