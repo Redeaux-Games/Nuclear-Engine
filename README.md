@@ -75,7 +75,7 @@ System Requirements:
   - Intel I5 or higher / AMD Ryzen 5 or higher
   - 8gb of ram or higher
   - At least 25gb of disk space or more
-  - Nvidia gtx 1060 or higher / AMD Radeon 560 or higher
+  - Nvidia gtx 1050 or higher / AMD Radeon 560 or higher
   - Raytracing will require a Nvidia RTX gpu
 
 We plan on getting the core features installed with 
