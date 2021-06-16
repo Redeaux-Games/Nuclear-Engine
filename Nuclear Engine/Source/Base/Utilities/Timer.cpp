@@ -1,5 +1,5 @@
 #include <Base\Utilities\Timer.h>
-namespace NuclearEngine {
+namespace REDxEngine {
 	namespace Base {
 		namespace Utilities {
 			using namespace std;
