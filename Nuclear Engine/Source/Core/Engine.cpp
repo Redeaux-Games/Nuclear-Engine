@@ -34,7 +34,7 @@
 #pragma comment(lib,"Diligent-Win32Platform.lib")
 
 
-namespace NuclearEngine {
+namespace REDxEngine {
 	namespace Core {
 
 		static std::string MajorVersion = "0";
@@ -92,7 +92,7 @@ namespace NuclearEngine {
 
 			GamePtr = &Defaultgame;
 
-			Log.Info("[Engine] Nuclear Engine has been initalized successfully!\n");
+			Log.Info("[Engine] REDx Game Engine has been initalized successfully!\n");
 			return true;
 		}
 
@@ -237,8 +237,8 @@ namespace NuclearEngine {
 
 		void PrintIntroLog()
 		{
-			Log.Info("-------------------------- -Nuclear Engine- --------------------------\n");
-			Log.Info("------------------------- Zone Organization --------------------------\n");
+			Log.Info("-------------------------- -REDx Game Engine- --------------------------\n");
+			Log.Info("-------------------------- Redeaux Interactive --------------------------\n");
 			Log.Info("[Engine] Starting Engine...\n");
 			Log.Info("[Engine] Engine Build: ");
 			Log.Info(MajorVersion);
