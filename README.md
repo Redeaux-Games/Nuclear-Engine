@@ -41,7 +41,7 @@
 
 
 ### Building
-The project has three building configuration:
+The project has three building configurations:
 
 Debug: Which is used in internal engine development.
 
@@ -50,9 +50,9 @@ Checked: Use it if you are developing a game.
 Release: Provides maximum performance, use it if you are publishing your game.
 
 
-Some Dependencies needs to be downloaded and built manually,
+Some Dependencies need to be downloaded and built manually,
 we plan to create a completely automated install that will automatically
-install the dependencies.
+install the dependencies on your device.
 
 + __Requirements__
   - Visual Studio 2019
