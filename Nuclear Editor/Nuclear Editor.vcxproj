@@ -17,9 +17,9 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{E46E5B6F-02B7-4A9D-B12A-BA94CFC2D083}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Nuclear Editor</RootNamespace>
+    <RootNamespace>REDx Editor</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Nuclear Editor</ProjectName>
+    <ProjectName>REDx Editor</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
