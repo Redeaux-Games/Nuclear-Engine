@@ -6,7 +6,7 @@
 #include <Windows.h>
 #endif
 #include <Base\NE_Common.h>
-namespace NuclearEngine {
+namespace REDxEngine {
 	namespace Base {
 		namespace Utilities {
 			std::wstring String2WSTR(const std::string& s)
