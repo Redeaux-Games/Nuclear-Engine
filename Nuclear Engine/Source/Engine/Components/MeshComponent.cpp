@@ -1,6 +1,6 @@
 #include "Engine\Components\MeshComponent.h"
 
-namespace NuclearEngine 
+namespace REDxEngine 
 {
 	namespace Components
 	{
