@@ -68,8 +68,8 @@ install the dependencies on your device.
   - Nvidia PhysX 4.1
   - Freeimage
   - GLFW 
-  - Python 3.6+ (REDAI & NPC2PC)
-  - Node.js (p2p networking requirement)
+  - Python 3.6+ (modules)
+
 
 System Requirements:
   - Intel I5 or higher / AMD Ryzen 5 or higher
