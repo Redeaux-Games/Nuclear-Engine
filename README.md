@@ -8,21 +8,22 @@
         - Vulkan
         - OpenGL
         - Async Compute
-        - REDAI - Advanced AI algorithm including speech synthesis (module)
-        - Cross platform anti-cheat (module)
 
 # To-dos 
 
   + W.I.P:
+    - Quixel Megascan support (module) 🏔️
+    - REDAI - Advanced AI algorithm including speech synthesis (module) 🤖
+    - Epic Online Services SDK (module) 🗨️
     - VirtualCameraVTK (Images to 3d models)(module) 📸
     - Bloom effect (Diligent Module) 🌋
     - ShadowMaps (Diligent Module) 💪
     - Taskflow support 🤯
-    - Ray Tracing Support (Diligent Module) 💡
+    - Ray Tracing Support (Diligent Module) 🌄
     - Multi-threading support 💪
-    - P2P Multi-player support 🎮 (module)
+    - P2P Multi-player support (module) 🎮
     - Windows release beta (1st version x64, portable) 🪟
-    - NPC2PC (NPC to Player Communication - Utilizing STT / TTS to REDAI for NPC response)(module)
+    - NPC2PC (NPC to Player Communication - Utilizing STT / TTS to REDAI for NPC response)(module) 👧
     - Support of importing .usd files
 	
   + Planned:
@@ -31,9 +32,8 @@
     - P2P Asset Market using a ERC-721 token built-in (game currency module)
 
   + Planned for next version:
-    - Android Support
+    - Android Support 
     - IOS Support
-    - IPFS Lobby System (module)
     - Lua Scipting Library
     - XBOX export
     - Playstation export
