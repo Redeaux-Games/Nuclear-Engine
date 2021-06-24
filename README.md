@@ -12,6 +12,7 @@
 # To-dos 
 
   + W.I.P:
+    - Dear IMGUI (module)
     - Dust3D (module)
     - EnTT ECS (module)
     - Quixel Megascan support (module) 🏔️
