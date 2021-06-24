@@ -3,7 +3,7 @@
 
 
 + Milestone 0.03 Alpha
-	- Complete DemoGame
+	- Complete Demo Game
         - DirectX 12
         - Vulkan
         - OpenGL
@@ -15,6 +15,7 @@
     - Quixel Megascan support (module) 🏔️
     - REDAI - Advanced AI algorithm including speech synthesis (module) 🤖
     - Epic Online Services SDK (module) 🗨️
+    - Cinder Multimedia Framework (module)
     - VirtualCameraVTK (Images to 3d models)(module) 📸
     - Bloom effect (Diligent Module) 🌋
     - ShadowMaps (Diligent Module) 💪
