@@ -12,6 +12,7 @@
 # To-dos 
 
   + W.I.P:
+    - EnTT ECS (module)
     - Quixel Megascan support (module) 🏔️
     - REDAI - Advanced AI algorithm including speech synthesis (module) 🤖
     - Epic Online Services SDK (module) 🗨️
