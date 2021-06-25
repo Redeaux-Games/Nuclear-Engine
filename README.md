@@ -26,10 +26,8 @@
     - Mesh Animations (Diligent Module) 🔲
     - Ray Tracing Support (Diligent Module) 🌄
     - TaskFlow 💪
-    - P2P Multi-player support (module) 🎮
     - Windows release beta (1st version x64, portable) 🪟
-    - NPC2PC (NPC to Player Communication - Utilizing STT / TTS to REDAI for NPC response)(module) 👧
-    - Support of importing .usd files
+    - NPC2PC (NPC to Player Communication - Utilizing STT / TTS to REDAI for NPC response) (module) 👧
 	
   + Planned:
     - P2P Asset Market using a token built-in (game currency module)
@@ -82,9 +80,12 @@ System Requirements:
   - Raytracing will require a Nvidia RTX gpu
 
 We plan on getting the core features installed with 
-an installers only around 600 to 700 megabytes, 
+an installer only around 600 to 700 megabytes, 
 everything is modular. We plan on releasing for Windows,
 MacOS and Linux.
+
+***THIS SOFTWARE IS ONLY UNDER DEVELOPMENT AS OF 06/24/2021!***
+
 
   
   
