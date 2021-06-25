@@ -8,6 +8,7 @@
         - Vulkan
         - OpenGL
         - Async Compute
+        - Gamepad/Controller support
 
 # To-dos 
 
