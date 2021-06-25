@@ -30,7 +30,7 @@
     - NPC2PC (NPC to Player Communication - Utilizing STT / TTS to REDAI for NPC response) (module) 👧
 	
   + Planned:
-    - P2P Asset Market using a token built-in (game currency module)
+    - Asset Market using a token built-in (game currency module)
 
   + Planned for next version:
     - Android Support 
